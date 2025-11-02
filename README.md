@@ -1,11 +1,11 @@
-# Pulsa Exchange – Africa’s Reliable Crypto Exchange and P2P Network
+# 📊 Pulsa Exchange – Africa’s Reliable Crypto Exchange and P2P Network
 
 Pulsa is a next-generation cryptocurrency exchange and peer-to-peer (P2P) trading platform built for speed, transparency, and financial inclusion across Africa.
 It combines institution-grade infrastructure with developer-friendly architecture, offering a unified ecosystem for spot trading, wallets, compliance, and blockchain integration.
 
 ---
 
-## Overview
+## 🔍 Overview
 
 Pulsa Exchange is engineered with a microservice architecture, powered by Go for backend performance and React/TypeScript for front-end experiences.
 It supports multi-chain interoperability, real-time trading, and high-throughput order matching, making it ready for institutional, retail, and developer use cases.
@@ -54,13 +54,13 @@ Key Layers:
 
 ## 🛠️ Tech Stack
 
-Backend: Go (Golang)
-Frontend: React.js, TypeScript
-Database: PostgreSQL, Redis, MongoDB
-Queue System: Kafka / RabbitMQ
-Blockchain: Bitcoin, Ethereum, Solana, Polygon, BSC, Tron
-Security: JWT, OAuth2, Two-Factor Authentication, Vault Encryption
-Monitoring: Prometheus, Grafana, OpenTelemetry
+- Backend: Go (Golang)
+- Frontend: React.js, TypeScript
+- Database: PostgreSQL, Redis, MongoDB
+- Queue System: Kafka / RabbitMQ
+- Blockchain: Bitcoin, Ethereum, Solana, Polygon, BSC, Tron
+- Security: JWT, OAuth2, Two-Factor Authentication, Vault Encryption
+- Monitoring: Prometheus, Grafana, OpenTelemetry
 
 ---
 
